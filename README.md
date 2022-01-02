@@ -22,14 +22,14 @@ Partie 1
 o	Instancier les objets suivants
 
 Student
-lastName	firstName	group	allAbsence
+(lastName/	firstName/	group/	allAbsence)
 A	Youssef	‘A’	null
 A	Mohammed	‘B’	null
 A	Mouna	‘A’	null
 
 
 Professor
-lastName	firstName	teachingHours	objectif	speciality
+(lastName	/firstName/teachingHours/	objectif/	speciality)
 B	Ahmed	12	60	computer science
 A	Imane	32	80	communication
 La méthode addAbsence permet d’ajouter une absence donnée à allAbsence
